@@ -111,7 +111,3 @@ scipy
 📜 License
 MIT License
 
-✨ Author
-Rohith Surya M
-
-GitHub: @RohithSuryaM
